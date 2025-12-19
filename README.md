@@ -61,8 +61,3 @@ I reconstructed the user journey to calculate conversion rates at each stage:
     git clone (https://github.com/Kshadow098/12.StarUpFoodService.git)
     ```
 
-    jupyter notebook "Food_App_AB_Test.ipynb"
-    ```
-
----
-*Author: Maximiliano* | 
