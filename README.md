@@ -58,6 +58,6 @@ I reconstructed the user journey to calculate conversion rates at each stage:
 ## 💻 How to Run
   Clone the repository:
     ```bash
-    git clone (https://github.com/Kshadow098/12.StarUpFoodService.git)
+     (https://github.com/Kshadow098/12.StarUpFoodService.git)
     ```
 
