@@ -56,16 +56,11 @@ I reconstructed the user journey to calculate conversion rates at each stage:
 2.  **Focus Area:** Instead of fonts, the product team should focus on optimizing the `[Etapa con más caída]` stage, as this is where the majority of potential customers are lost.
 
 ## 💻 How to Run
-1.  Clone the repository:
+  Clone the repository:
     ```bash
-    git clone [URL_DEL_TU_REPO]
+    git clone (https://github.com/Kshadow098/12.StarUpFoodService.git)
     ```
-2.  Install dependencies:
-    ```bash
-    pip install pandas matplotlib plotly scipy
-    ```
-3.  Run the notebook:
-    ```bash
+
     jupyter notebook "Food_App_AB_Test.ipynb"
     ```
 
